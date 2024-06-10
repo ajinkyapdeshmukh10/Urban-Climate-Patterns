@@ -6,7 +6,7 @@ format: html
 editor: visual
 ---
 
-###### (Link to PDF Presentation) {background-image="images/dallas-united-states-travel-blog.jpg" background-opacity="0.35"}
+## Urban Climate Patterns:Analysis of Urban Heat Islands
 
 ![](./images/UHI_Title.png){fig-align="center"}
 
@@ -64,17 +64,17 @@ This project will contribute to the understanding of UHI dynamics in different u
 
 In this project we're employing data visualization techniques to explore and compare the seasonal variation of relative humidity in three different cities---Arlington, Dallas, and Denton.Plot is showcasing the hourly relative humidity trends across each month. The distinctive line styles and markers aid in differentiating data points for each city.
 
-![](./images/Seasonal_Comparison.png){fig-align="center"}
+![](./images/Seasonal_Comparison.png)
 
 Here we're trying to elucidate and compare the nighttime temperature variations in the specified regions throughout the year 2022 across three regions Arlington, Dallas, and Denton. Focusing on nighttime values and excluding midnight data, we're calculating the nightly rate of change between high and low temperatures for each region. The average monthly temperature rate of change is then computed for each city, providing insights into the variations in nightly temperature patterns over the course of the year. The resulting line plot visualizes these monthly averages, highlighting the distinctive temperature trends for each region.\
 
-![](./images/Region_Comaprison_by_months.png){fig-align="center"}
+![](./images/Region_Comaprison_by_months.png)
 
 The heatmap visually represents the correlation coefficients between these variables, providing insights into how changes in one meteorological factor may be associated with changes in UHI Intensity. This analysis helps in understanding the interdependencies and potential contributing factors to the UHI phenomenon in the selected locations.
 
 The correlation heatmap is to explore the relationships between various meteorological variables and the Urban Heat Island (UHI) Intensity in three different locations: Dallas, Denton, and Arlington. The selected variables include Dry Bulb Temperature, Wet Bulb Temperature, Dew Point Temperature, Hourly Precipitation, Sea Level Pressure, Station Pressure, Relative Humidity, Wind Speed, Wind Direction, and UHI Intensity Numeric.
 
-![](./images/Correlation_HeatMap.png){fig-align="center"}
+![](./images/Correlation_HeatMap.png)
 
 ## **Conclusion**
 
