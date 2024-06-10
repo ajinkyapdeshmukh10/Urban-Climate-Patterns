@@ -1,14 +1,6 @@
----
-title: "Urban Climate Patterns:Analysis of Urban Heat Islands"
-subtitle: "INFO 523 - Project Final"
-author: "Byte-Busters"
-format: html
-editor: visual
----
-
 ## Urban Climate Patterns:Analysis of Urban Heat Islands
 
-![](./images/UHI_Title.png){fig-align="center"}
+![](./images/UHI_Title.png)
 
 ## **Abstract**
 
