@@ -42,7 +42,7 @@ Climatological and hourly time-series data have been collected from various weat
 
 ## **Methodology:**
 
-Utilizing data mining and machine learning techniques, the project will detect and analyze UHIs, providing insights into the impact of urbanization on microclimates. The analysis includes visualizations and classification methods to interpret varying UHI intensity levels.
+Utilizing data mining and machine learning techniques, the project will detect and analyze UHIs, providing insights into the impact of urbanization on micro-climates. The analysis includes visualizations and classification methods to interpret varying UHI intensity levels.
 
 ## **Questions:**
 
