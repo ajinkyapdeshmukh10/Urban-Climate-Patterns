@@ -2,8 +2,7 @@
 
 ![UHI Title](./images/UHI_Title.png)
 
-
-The main goal of this project is to delve into climatological data for three cities—Dallas, Denton, and Arlington in and around the Dallas, TX region. The focus is on understanding and categorizing these cities based on the _**Urban Heat Island (UHI)**_ scale.
+The main goal of this project is to delve into climatological data for three cities---Dallas, Denton, and Arlington in and around the Dallas, TX region. The focus is on understanding and categorizing these cities based on the ***Urban Heat Island (UHI)*** scale.
 
 In climatology, UHI denotes urban areas with higher temperatures compared to neighboring rural areas. This phenomenon arises due to the replacement of natural landscapes with structures that absorb and retain heat, forming what is commonly known as a "micro-climate." Essentially, a city's infrastructure creates its localized weather conditions.
 
@@ -13,4 +12,4 @@ This project seeks to enhance understanding of how urbanization influences local
 
 **Dataset**
 
-The dataset that I've gathered is from the National Center for Environmental Information [(NCEI)](<https://www.ncei.noaa.gov/>).
+The dataset that I've gathered is from the National Center for Environmental Information [(NCEI)](https://www.ncei.noaa.gov/).
